@@ -5,7 +5,7 @@ go 1.22
 toolchain go1.22.3
 
 require (
-	github.com/SolaTyolo/httpclient v0.0.0-20240418032401-5c66bdcebac7
+	github.com/SolaTyolo/httpclient v0.1.0
 	github.com/atombender/go-jsonschema v0.16.0
 	github.com/samber/lo v1.39.0
 	github.com/stretchr/testify v1.9.0
